@@ -35,7 +35,7 @@
     "axios": "^0.18.0",
     "circular-json": "^0.5.9",
     "fastclick": "^1.0.6",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "normalize.css": "^8.0.1",
     "register-service-worker": "^1.5.2",
     "vant": "^1.4.7",
